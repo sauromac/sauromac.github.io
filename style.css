@@ -1,0 +1,48 @@
+p{
+    color: black;
+    font-size: 20px;
+}
+h1{ color: blue;
+}
+body{ 
+    background-color: rgb(255, 198, 45);
+}
+#baristapro{
+  
+    width: 300px;
+    padding: 0px;
+    background-color: yellow;
+    margin-top: -120px;
+}
+nav ul{
+    margin: 10px auto;
+    text-align: right;
+    color: black;
+  }
+nav ul li{
+     display:inline-block;
+     margin: 20px;
+
+}
+#charleston{
+    margin-top: 80px;
+    font-size: 40px;
+}
+
+#charlestonid{
+    /* width: 350px; */
+    /* float: left; */
+}
+
+#stumptownh{
+    margin-top: 80px;
+    font-size: 40px;
+}
+
+#stumptownhphoto{
+    /* font-size: 350px; */
+}
+#ritualh{
+    font-size: 40px;
+    
+}
